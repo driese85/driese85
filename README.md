@@ -27,7 +27,7 @@
     <tr>
       <td>
         <img align="center" alt="Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="center" alt="Rust" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+        <img align="center" alt="Rust" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
         <img align="center" alt="JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="TS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img align="center" alt="NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -45,7 +45,7 @@
       </td>
       <td>
         <img align="center" alt="Vuejs" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-         <img align="center" width="32" height="32" alt="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
+         <img align="center" width="40" height="35" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
       </td>
     </tr>
  </table> 
