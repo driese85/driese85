@@ -10,10 +10,10 @@
 * 🌱 I have been programming on and off since I was 15
 * 📫 How to reach me: https://www.linkedin.com/in/elmervandendries/
  
-### My private projects
+### My personal projects
  
 * 🧑‍💻 I am building a DeFiChain dashboard using Streamlit and PostgreSQL
-* 🧑‍💻 I am building my crypto bot in Rust
+* 🧑‍💻 I am building my crypto bot in Rust (private repo)
  
 ### Hard Skills 🧑‍💻
 
