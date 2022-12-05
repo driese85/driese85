@@ -10,7 +10,7 @@
 * 🌱 I have been programming on and off since I was 15
 * 📫 How to reach me: https://www.linkedin.com/in/elmervandendries/
  
-### My personal projects
+### My current personal projects
  
 * 🧑‍💻 I am building a DeFiChain dashboard using Streamlit and PostgreSQL (<a href="https://github.com/driese85/defichain_streamlit">repo</a>)
 * 🧑‍💻 I am building my crypto bot in Rust (private repo)
