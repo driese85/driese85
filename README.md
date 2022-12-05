@@ -12,7 +12,7 @@
  
 ### My personal projects
  
-* 🧑‍💻 I am building a DeFiChain dashboard using Streamlit and PostgreSQL
+* 🧑‍💻 I am building a DeFiChain dashboard using Streamlit and PostgreSQL (<a href="https://github.com/driese85/defichain_streamlit">repo</a>)
 * 🧑‍💻 I am building my crypto bot in Rust (private repo)
  
 ### Hard Skills 🧑‍💻
