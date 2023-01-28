@@ -6,7 +6,7 @@
  
 * 🌎 I'm based in Delft, The Netherlands
 * 💼 10+ professional experience in highly analytical positions (Commercial Excellence Analyst and Demand Forecast Analyst) at AkzoNobel and DSM
-* * 🌱 I have been programming on and off since I was 15
+* 🌱 I have been programming on and off since I was 15
 * 📫 How to reach me: https://www.linkedin.com/in/elmervandendries/
  
 ### My current personal projects
