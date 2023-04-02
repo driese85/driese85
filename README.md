@@ -47,6 +47,7 @@
       </td>
       </td>
       <td>
+       <img align="center" width="40" height="35" alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
         <img align="center" alt="Vuejs" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
          <img align="center" width="40" height="35" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
       </td>
