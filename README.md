@@ -16,6 +16,11 @@
  
 * 🧑‍💻 I am building a DeFiChain dashboard using Streamlit and PostgreSQL (<a href="https://github.com/driese85/defichain_streamlit">repo</a>)
 * 🧑‍💻 I am building my crypto bot in Rust (private repo)
+
+### My Medium Blog Posts
+* <a href="https://medium.com/@elmervandendries/how-to-build-a-defichain-crypto-dashboard-with-streamlit-and-postgresql-part-1-58c3748bcf60">How to Build a DeFiChain Crypto Dashboard with Streamlit and PostgreSQL — Part 1</a>
+* <a href="https://medium.com/@elmervandendries/how-to-build-a-defichain-crypto-dashboard-with-streamlit-and-postgresql-part-2-92e4425bcf1">How to Build a DeFiChain Crypto Dashboard with Streamlit and PostgreSQL — Part 2</a>
+* <a href="https://medium.com/@elmervandendries/4-postgresql-queries-and-commands-to-never-forget-bd950a6f3b30">4 Postgresql queries and commands that nobody teaches you</a>
  
 ### Hard Skills 🧑‍💻
 
