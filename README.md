@@ -8,6 +8,9 @@
 * 💼 10+ professional experience in highly analytical positions (Commercial Excellence Analyst and Demand Forecast Analyst) at AkzoNobel and DSM
 * 🌱 I have been programming on and off since I was 15
 * 📫 How to reach me: https://www.linkedin.com/in/elmervandendries/
+
+### My projects at Hogeschool Rotterdam: Artificial Intelligence & Data Science
+* Project 1: building an application that can support a doctor in advising patients on their living habits and the impact on their lifespan (<a href="https://github.com/driese85/MIWProject1">repo</a>)
  
 ### My current personal projects
  
