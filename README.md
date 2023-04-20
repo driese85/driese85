@@ -13,7 +13,7 @@
 * Project 1: building an application that can support a doctor in advising patients on their living habits and the impact on their lifespan (<a href="https://github.com/driese85/MIWProject1">repo</a>)
  
 ### My current personal projects
- 
+* 🧑‍💻 I am competing in the Kaggle.com Vesuvius Challenge - Ink detection in carbonized papyrus scrolls (<a href="https://www.kaggle.com/code/elmer85/vesuvius-challenge">notebook</a>)
 * 🧑‍💻 I am building a DeFiChain dashboard using Streamlit and PostgreSQL (<a href="https://github.com/driese85/defichain_streamlit">repo</a>)
 * 🧑‍💻 I am building my crypto bot in Rust (private repo)
 
